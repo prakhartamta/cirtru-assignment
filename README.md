@@ -6,8 +6,9 @@
 
 ### Web Preview
 ![Image](./public/image.jpg)
+
+
 ![Image1](./public/image2.jpg)
 
 ### Mobile Preview
-![Image](./public/image3.jpg)
-![Image1](./public/image4.jpg)
+![Image2](./public/image3.jpg)
